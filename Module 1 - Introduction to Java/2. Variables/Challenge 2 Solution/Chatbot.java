@@ -7,6 +7,7 @@ public class Chatbot {
 
         System.out.println("Hello. What is your name?");
         String name = scan.nextLine();
+        
 
         System.out.println("\nHi "+name+"! I'm Javabot. Where are you from?");
         String home = scan.nextLine();
